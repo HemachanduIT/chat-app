@@ -64,7 +64,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/HemachanduIT/chat-app.git
-   cd chat-app
+   cd chat-app ie change directory to chat-app
    ```
 
 2. **Install server dependencies**
