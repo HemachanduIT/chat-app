@@ -76,7 +76,7 @@ Ensure you have the following installed:
 3. **Install client dependencies**
    ```bash
    cd ../client
-   npm install
+   npm install 
    ```
 
 ### Environment Configuration
@@ -126,7 +126,7 @@ VITE_API_URL=http://localhost:8747/api
 <div align="center">
 
 **Built with ❤️ by [HemachanduIT](https://github.com/HemachanduIT)**
-
+**You can access the link by using repo link(https://github.com/HemachanduIT/chat-app)
 ⭐ **Star this repository if you found it helpful!**
 
 </div>
